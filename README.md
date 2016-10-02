@@ -11,6 +11,8 @@ To: 2001
 
 Note: Not all indicators have complete data sets for every country/year, so many chart combinations by be incomplete.
 
+![Atlas Screenshot](/AtlasScreenShot.png)
+
 ### Step 1) Get Your Local Environment setup
 
 Clone this repo locally, and make sure all your team members have access to it. This project was generated using [angular2-cli](https://github.com/angular/angular-cli).
